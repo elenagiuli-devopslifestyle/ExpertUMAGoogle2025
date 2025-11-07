@@ -40,5 +40,50 @@ Exemplos
 APT - style behavior: targeted spear-pishing, multi stage implant, long-live C2
 Cybercime - mass phishing, credential-harvesting kits, IABs, exploitation of vulns to sell info
 
+FBI gov wanted cyber
 
+eumostwanted.eu 
+Enrique Arias Gil
+No name group
+
+exemplo de ataques 
+-data spain
+
+GXC Team - GoogleXCoder
+
+Exemplo
+Head de Incident Response Sygnia 
+
+International Cyber Diggest
+
+Ryan Clifford Goldberg
+
+Que tipo de malware eles usam?
+
+Exemplo 
+Quasar RAT
+AsyncRAT
+RemCos
+
+Redline stealer
+
+RATs x Infostealers
+
+Tracking Threat actors
+plataformas comuns
+Discord e telegram
+
+Webhooks
+
+MAlware Config
+exemplo
+discord
+
+processos
+bot lab
+#-1003203267163
+
+gerardopagavt
+
+123abc...
 
